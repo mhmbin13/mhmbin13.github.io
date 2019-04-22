@@ -1,6 +1,6 @@
-# My Website
+# GBA Games Website
 
-https://itfailedtest.github.io 
+https://itfailedemulator.github.io 
 
 # Origanal Forked Page
 
