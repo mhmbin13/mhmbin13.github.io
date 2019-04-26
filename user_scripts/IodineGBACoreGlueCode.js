@@ -98,6 +98,7 @@ var games = {
     "gba_video_pokemon_2":"Pokemon Video Pak 2",
     "gba_video_pokemon_3":"Pokemon Video Pak 3",
     "gba_video_pokemon_4":"Pokemon Video Pak 4",
+    "risk_battleship_clue":"Risk Battleship and Clue",
     "sonic_advance":"Sonic Advance",
     "sonic_advance2":"Sonic Advance 2",
     "sonic_advance3":"Sonic Advance 3",
